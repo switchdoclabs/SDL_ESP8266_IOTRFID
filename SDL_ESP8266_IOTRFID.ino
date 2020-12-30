@@ -44,8 +44,9 @@ int blinkPin = 0;                // pin to blink led at each reception of RFID c
 //----------------------------------------------------------------------
 //Local WiFi Variables
 
-const char* ssid = "gracie";
-const char* password = "faraday01";
+
+const char* ssid = "xxxxxx";
+const char* password = "yyyyyyy";
 
 #define IOTRFIDVERSION 005
 
